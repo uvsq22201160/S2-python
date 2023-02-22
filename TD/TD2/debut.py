@@ -4,7 +4,6 @@ CANVAS_WIDTH, CANVAS_HEIGHT = 600, 600
 root = tk.Tk()
 
 canvas = tk.Canvas(root, width = CANVAS_WIDTH, height = CANVAS_HEIGHT)
-canvas =
 
 # Début de votre code
 x0 = 100
